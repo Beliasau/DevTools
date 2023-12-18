@@ -2,6 +2,7 @@ Devtools HW
 
 Сделать скрин видео выполнения задания.
 Видео засылайте в личку.
+1. Открыть сайт http://itcareer.pythonanywhere.com/
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.

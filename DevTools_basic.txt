@@ -1,0 +1,118 @@
+Открыть инструменты разработчика
+Control + Shift + C
+
+
+
+
+
+Console
+Logs
+warnings
+errors
+JavaScript code
+
+
+
+
+
+Sources
+— это место, где вы выполняете отладку JavaScript.
+
+
+
+
+
+LightHouse
+Оптимизация скорости сайта
+создание отчетов и метрик скорости загрузки сайтов
+
+
+
+
+
+
+Devices
+
+
+
+
+
+
+Application
+(Панель приложений)
+Проверяется все загружаемые ресурсы, включая базы данных IndexedDB или Web SQL, локальное и сеансовое хранилище, файлы cookie, кэш приложений, изображения, шрифты и таблицы стилей.
+
+cookie
+local/session Storage
+
+
+
+
+
+memory
+
+Панель памяти.
+помогаетт райти и устранить проблемы с памятью, влияющие на производительность страницы, например утечки памяти.
+
+
+
+
+
+
+Security
+Панель безопасности
+Устранение проблем со смешанным содержимым, проблем с сертификатами и т. д.
+
+
+
+
+Elements
+
+
+
+
+
+
+Network
+(Чтобы просмотреть сетевую активность, которую вызывает страница)
+
+Network/network Conditions(либо значек ви-фи во вкладке нетворк)      (позволяет изменить user-agent)
+import/export HAR files 
+request/responce
+preserve log
+disable cache
+network Throttling
+Filters:
+    file type
+    method
+    domain 
+    header
+
+
+
+
+Network Conditions
+user agent изменить
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recorder
+
+
+
+
+
+Performance
+Панель производительности 
+Найдите способы улучшить производительность нагрузки и выполнения.
